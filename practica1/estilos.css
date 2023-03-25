@@ -1,0 +1,12 @@
+body {
+	background-color: #8EC6C5;
+}
+
+button[type="submit"] {
+	background-color: #FCD116;
+	color: #000;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+}
